@@ -1,0 +1,23 @@
+Machine virtuelle
+Maisonneuve
+
+
+Utilisateur	maisonneuve
+Mot de passe	maisonneuve
+maisonneuve est sudo
+
+Mot de passe (root)	maisonneuve
+
+
+Outils installés ...
+tree
+dnsutils
+net-tools
+git
+sudo
+open-vm-tools
+
+Adresse IP au démarrage
+
+
+

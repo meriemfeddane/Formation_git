@@ -1,0 +1,25 @@
+Adresses IP
+Maisonneuve
+
+Campus 2030
+FC.404
+10.30.236.0/24
+FC.414
+10.30.244.0/24
+
+Laboratoire des profs
+10.30.210.0/24
+
+
+Campus 3800
+Laboratoire des profs
+10.80.108.0/24
+
+Adresses de mes serveurs (M9)
+206.167.46.238
+206.167.46.239
+
+
+
+
+

@@ -1,0 +1,7 @@
+Gestion des utilisateurs et des groupes
+Ajout, modification et suppression de groupes 
+Paramètres (durée de vie des mots de passe, verrouillage de comptes, …)
+Fichiers /etc/passwd et /etc/shadow
+
+
+
